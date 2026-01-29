@@ -1,4 +1,4 @@
-**Komponen Utama (Elektronik)**
+# **Komponen Utama (Elektronik)**
 
 | No | Nama Barang                            | Harga           | Link                                                                                                                                                                                                    | Catatan                                                     |
 | -- | -------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -16,3 +16,5 @@
 | 12 | 10PCS BAUT BAUD SEKRUP X 10            | Rp 15.000       | [![10PCS BAUT BAUD SEKRUP X 10 ](img/sg-11134201-7qvd2-ljwa3i8qhs79fc.webp)](https://shopee.co.id/10PCS-BAUT-BAUD-SEKRUP-SKRUP-3MM-X-10MM-3X10-i.62956347.23750004023)                                       |                                                             |
 | 13 | Kartu Perdana IM3 Freedom Internet 3GB | Rp 35.000       | [![Kartu Perdana IM3 Freedom Internet 3GB](img/id-11134207-7ra0p-mdpi38dlsg8f93.webp)](https://shopee.co.id/Kartu-Perdana-IM3-Freedom-Internet-3GB-i.56545676.27980275788)                                   | Operator Layanan Internet                                   |
 |    | **TOTAL**                        | **Rp 834.800** |                                                                                                                                                                                                         |                                                             |
+# Konsep IoT
+[![Konsep IoT ](./img/Konsep%20IoT.png)]()
