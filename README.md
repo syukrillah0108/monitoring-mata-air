@@ -82,6 +82,4 @@ Ini adalah tahap akhir di mana data disajikan kepada pengguna ( **User** ).
 
 **Ringkasan:**
 
-Sistem ini mengubah parameter fisik air (suhu, pH, aliran) menjadi data digital menggunakan sensor, mengirimkannya via internet (IoT), menyimpannya di Cloud, dan menyajikannya dalam bentuk grafik yang mudah dipahami di layar HP atau komputer Anda.
-
-Apakah Anda ingin saya menjelaskan lebih detail mengenai spesifikasi teknis untuk salah satu komponen di atas (misalnya, jenis mikrokontroler atau sensor yang cocok)?
+Sistem ini mengubah parameter fisik air (suhu, pH, aliran) menjadi data digital menggunakan sensor, mengirimkannya via internet (IoT), menyimpannya di Cloud, dan menyajikannya dalam bentuk grafik yang mudah dipahami di layar HP atau komputer.
